@@ -36,4 +36,144 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <string name="enter_phone">Введите телефон</string>
     <string name="enter_code">Введите код</string>
+    <string name="phone_call">На Ваш телефон поступит звонок</string>
+    <string name="enter_the_last_4_digits">Введите последние 4 цифры\n номера телефона.</string>
+    <string name="code_3555">Например, позвонил +7 999 488 3555\n Код 3555</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="for_further_work">Для дальнейшей работы на платформе Вам необходимо заполнить все данные и загрузить документы.</string>
+    <string name="you_can_fill_in_the_data">Вы можете заполнить данные сейчас или вернуться к этому позже</string>
+    <string name="required_documents">Необходимые документы:</string>
+    <string name="pasport">паспорт</string>
+    <string name="drivers_license">водительское удостоверение</string>
+    <string name="vehicle_reg_certif">свидетельство регистрации автомобиля</string>
+    <string name="fill">Заполнить</string>
+    <string name="get_code">Получить код</string>
+    <string name="get_rgb">rgb(251,187,5)</string>
+    <string name="collapse">Свернуть</string>
+    <string name="more_details">Подробнее</string>
+    <string name="o_p_per_month">O Р в месяц +\n3 % от суммы вывода</string>
+    <string name="start">Старт</string>
+    <string name="choose">Выбрать</string>
+    <string name="personal_data_protection">Защита личных данных</string>
+    <string name="direct_connection">Прямое подключение водителей к агрегаторам</string>
+    <string name="no_percent_of_order">Никаких процентов от заказа - только абонентская плата</string>
+    <string name="choose_tariff">Выберите тариф</string>
+    <string name="comfort">Комфорт</string>
+    <string name="four_hundred_monthly_fee">490 абонентская плата +\n410 комиссия банка</string>
+    <string name="nine_hundred_monthly_fee">990 абонентская плата +\n410 комиссия банка</string>
+    <string name="premium">Премиум</string>
+    <string name="unlimited_instant_payments">Безлимитные моментальные платежи в любое время</string>
+    <string name="optimal_rate">Оптимальный тариф для активных водителей</string>
+    <string name="from_cash_orders">С наличных заказов не берём комиссию</string>
+    <string name="choose_a_tariff">Выбрать тариф</string>
+    <string name="service_is_tree">Обслуживание бесплатно, если тратить все деньги на АЗС</string>
+
+    <string name="select_taxi_aggregators">Выберите агрегаторы такси, через которые Вы будете работать</string>
+    <string name="windraw_funds">Вывод средств</string>
+    <string name="balance">Баланс</string>
+    <string name="my_data">Мои данные</string>
+    <string name="constantinople_vyacheslav">Константинопольский Вячеслав Геннадьевич</string>
+    <string name="my_tariff">Мой тариф</string>
+    <string name="my_auto">Мой автомобиль</string>
+
+    <string name="input_all_field">Заполните все пустые поля</string>
+    <string name="passport_data">Паспортные данные (паспорт РФ)</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="data_of_birth">Дата рождения</string>
+    <string name="seria_and_number_of_passport">Серия и номер паспорта</string>
+    <string name="who_issued">Кем выдан</string>
+    <string name="when_issued">Дата выдачи</string>
+    <string name="address_of_registration">Адрес регистрации</string>
+    <string name="city">Город</string>
+    <string name="district">Район(если есть)</string>
+    <string name="street">Улица</string>
+    <string name="home">Дом</string>
+    <string name="apartments">Квартира</string>
+    <string name="next">Далее</string>
+    <string name="save_new_tariff">Сохранить новый тариф</string>
+
+    <string name="send_foto">Отправить фотографии</string>
+    <string name="caution_make_sure">Убедитесь, что нет бликов, <br/>и все данные хорошо видны</string>
+    <string name="prepare_photo">Подготовьте фотографии<br/> ваших документов</string>
+    <string name="you_can_open_camera">Вы можете открыть камеру<br/> и сфотографировать документы
+        <br/>или загрузить готовые фото</string>
+    <string name="required_text">Потребуется:</string>
+    <string name="passport_bullet_text">Паспорт</string>
+    <string name="drivers_license_bullet_text">Водительское удостоверение</string>
+    <string name="passport_regulations">-разворот с фотографией<br/>-страница с регистрацией</string>
+    <string name="driver_licence_regulations">-лицевая сторона<br/>-оборотная сторона</string>
+    <string name="add_photo">Добавить фотографию</string>
+    <string name="add_photos">Добавьте фотографии</string>
+    <string name="send_photos">Отправить фотографии</string>
+    <string name="passport_caps_first_letter">Паспорт</string>
+    <string name="driver_license_caps_first_letter">Водительское удостоверение</string>
+    <string name="passport_face">Разворот с<br/>фотографией</string>
+    <string name="passport_registration_page">Страница с<br/>регистрацией</string>
+    <string name="drivers_license_left_side">Лицевая сторона</string>
+    <string name="drivers_license_back_side">Обратная сторона</string>
+    <string name="step">Шаг</string>
+    <string name="current_step">6</string>
+    <string name="total_steps">/6</string>
+
+    <string name="driver_data">Данные водительского удостоверения</string>
+    <string name="driver_issued_to">Срок выдачи</string>
+    <string name="driver_numbers">Серия и номер В.У.</string>
+    <string name="date_of_birth">Дата рождения</string>
+    <string name="serial_and_number_of_passport">Серия и номер паспорта</string>
+    <string name="passport">passport</string>
+    <string name="certificate_number">Номер свидетельства Т.С.</string>
+    <string name="car_win">WIN</string>
+    <string name="car_number">Регистрационный знак</string>
+    <string name="car_color">Цвет автомобиля</string>
+    <string name="car_year">Год выпуска</string>
+    <string name="car_model">Модель автомобиля</string>
+    <string name="car_brand">Марка автомобиля</string>
+    <string name="car_data">Данные Т.С.</string>
+    <string name="car_license">Данные лицензии</string>
+    <string name="license_number">Номер лицензии</string>
+
+    <string name="withdraw_money">Вывести деньги</string>
+    <string name="overall_balance">Общий баланс</string>
+    <string name="select_aggregetor">Выберите агрегатор</string>
+    <string name="choose_where_translate">Выберите, куда переводить</string>
+    <string name="back">Назад</string>
+    <string name="total_amount">Общая сумма</string>
+
+
+<!--    check_input_data_fragment-->
+    <string name="change">Изменить</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="send_data">Отправить данные</string>
+    <string name="tariff">Тариф</string>
+    <string name="aggregators">Агрегаторы</string>
+    <string name="passport_dates">Паспортные данные</string>
+    <string name="data_of_driver">Данные В.У.</string>
+    <string name="data_of_car">Данные Т.С.</string>
+
+    <string name="choose_tariff_start">Выбрать тариф Старт</string>
+    <string name="choose_tariff_comfort">Выбрать тариф Комфорт</string>
+    <string name="choose_tariff_premium">Выбрать тариф Премиум</string>
+    <string name="data_sent_verification">Данные отправлены на проверку</string>
+
+    <string name="ChoiceData">Проверьте данные</string>
+
+<!--    Exit dialog-->
+    <string name="exit_dialog">Вы действительно желаете выйти?</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="car_data_model">Марка автомобиля</string>
+    <string name="car_data_type">Модель автомобиля</string>
+    <string name="car_data_year">Год производства автомобиля</string>
+    <string name="car_data_color">Цвет автомобиля</string>
+    <string name="car_data_number">Регистрационный знак ТС</string>
+    <string name="car_number_pts">Регистрационный знак ТС</string>
+    <string name="car_data_vin">Номер свидетельства ТС</string>
+    <string name="car_data_license">ДАННЫЕ ЛИЦЕНЗИИ</string>
+    <string name="car_data_license_number">Номер лицензии</string>
+
+    <!--    Car data-->
+
+
 </resources>
